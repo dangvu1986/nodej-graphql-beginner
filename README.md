@@ -1,4 +1,4 @@
-Simple graphql query by using nodejs, express and json file
+# Simple graphql query by using nodejs, express and json file
 - Step 1: clone source code from github
 - Step 2: install npm package
 ```javascript
